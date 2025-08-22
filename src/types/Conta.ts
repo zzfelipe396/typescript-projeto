@@ -89,6 +89,6 @@ export class Conta{
 
 }
 
-const conta = new Conta("Joana da Silva Oliveira");
+const conta = new Conta("Joana da Silva Oliveir");
 
 export default conta;
